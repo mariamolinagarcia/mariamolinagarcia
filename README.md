@@ -13,6 +13,6 @@
 ### Hot links
 - Twitter: https://twitter.com/MomoHorror
 - LinkedIn: https://www.linkedin.com/in/maria-molina-garcia/
-- My final Adalab project: http://beta.adalab.es/modulo-3-evaluacion-final-mariamolinagarcia/
+- My final Adalab project: http://mariamolinagarcia.github.io/modulo-3-evaluacion-final-mariamolinagarcia/
 
 
