@@ -1,9 +1,8 @@
 ### Welcome to my profile! 👋
 
 
-- 🔭 I’m currently working on my own website.
-- 🌱 I’m currently learning React in more depth and Vue.
-- 👯 I’m looking for the opportunity to work in an IT company as a frontend developer.
+- 🔭 I’m currently working.
+- 🌱 I’m currently learning Angular in more depth and React.
 - 💬 Ask me about ...
 - 📫 How to reach me: mariquillamolina@gmail.com
 - 😄 Pronouns: she/her
